@@ -1,4 +1,4 @@
-/*      Not Finished 
+/*      Finished 
 
     MERGE SORT  
         Algorithm -------------------------------------------------------------
